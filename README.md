@@ -7,5 +7,5 @@ Installation
 - Remove "-main" from file name
 - Drop into to your resources folder
 - Ensure the resource in your server.cfg
-- 
+
 !DO NOT COPY,PASTE OR SELL THIS SCRIPT!
